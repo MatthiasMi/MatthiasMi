@@ -4,7 +4,7 @@
 ```rust 
 let &mut hias = &Some(1);
 
-/// some projects I am able to publish
+/// Some `Github`-projects I am able to publish
 enum Github {
 	proof_of_concept,
 	implementations,
@@ -19,5 +19,4 @@ enum Github {
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
