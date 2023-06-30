@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a :book: on "Theoretische Informatik für IT-Sicherheit"
+- 🔭 I’m currently working on projects in the domain "🔑Encrypted Computing🖥️"
+- 🔭 I’ve recently finished writing a :book: on "Theoretische Informatik für IT-Sicherheit"
 
 ```rust 
 let &mut hias = &Some(1);
