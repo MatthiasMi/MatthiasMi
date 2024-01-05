@@ -1,6 +1,10 @@
-### Hi there 👋
-- 🔭 I’m currently working on projects in the domain "🔑Encrypted Computing🖥️"
-- 🔭 I’ve recently finished writing a :book: on "Theoretische Informatik für IT-Sicherheit"
+# 👋 Hi 
+## 🔭 Projects
+- I'm currently working on projects in the domains:
+	- ✅ Verifiable Crypto 🔏
+	- ⚡️ Side-Channel Resilient Post-Quantum Cryptology 🔒
+	- 🔑 Encrypted Computing 🖥️
+- In 2023, I've finished writing a :book: on "Theoretische Informatik für IT-Sicherheit"
 
 ```rust 
 let &mut hias = &Some(1);
@@ -9,12 +13,13 @@ let &mut hias = &Some(1);
 enum Github {
 	proof_of_concept,
 	implementations,
-	research_results, 
+	research_results,
 	};
 ```
 
+## Free-Time
+- 🌱 I’m currently learning to make sounds on various percussion instruments 🥁
 <!--
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
